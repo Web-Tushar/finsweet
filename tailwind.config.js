@@ -14,6 +14,10 @@ tailwind.config = {
       fontFamily: {
         'RobotoCondensed':  "'Roboto Condensed', sans-serif",
         
+      },
+      backgroundImage: {
+        'banner': "url('/images/banner.jpg')",
+        
       }
     }
   }
