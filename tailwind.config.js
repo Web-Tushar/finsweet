@@ -5,8 +5,10 @@ tailwind.config = {
         clifford: '#da373d',
         navbg:'#0D0D0D',
         white: '#fff',
-        primay: '#FFD2A4',
-        navbtn: '#1C1D28'
+        primary: '#FFD2A4',
+        navbtn: '#1C1D28',
+        black: '#161722',
+        light_oragne:'#FFF5EB'
       },
       maxWidth: {
         'container': '1280px',
