@@ -18,7 +18,7 @@ tailwind.config = {
         
       },
       backgroundImage: {
-        'banner': "url('/images/banner.jpg')",
+        'banner': "url('./images/banner.jpg')",
         
       }
     }
