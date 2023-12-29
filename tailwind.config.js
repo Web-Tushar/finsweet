@@ -8,7 +8,8 @@ tailwind.config = {
         primary: '#FFD2A4',
         navbtn: '#1C1D28',
         black: '#161722',
-        light_oragne:'#FFF5EB'
+        light_oragne:'#FFF5EB',
+        watch_bg: '#F5F2F0'
       },
       maxWidth: {
         'container': '1280px',
@@ -19,6 +20,7 @@ tailwind.config = {
       },
       backgroundImage: {
         'banner': "url('./images/banner.jpg')",
+        overlay: ' linear-gradient(92deg, #060606 16.68%, rgba(0, 0, 0, 0.02) 96.44%);'
         
       }
     }
